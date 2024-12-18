@@ -20,6 +20,6 @@ This website is deployed to Github pages
 
 - [Deployment link](https://derrik11.github.io/se_project_spots/)
 
-- **add video link**
+- [Deployment Video](https://drive.google.com/file/d/1aONBqg8nzsBcAz6H7jEYuwP2w-V9tJHY/view?usp=drive_link)
   
 
